@@ -6,10 +6,10 @@ Basically, what the name says, you can directly double-click on any zip file and
 
 # How to use
 
-Run the RARAutoExtractorSetup.exe file as Administrator, and it should install and set it as the default program for zip files./n
-If it does not set itself as the default program, go to "Default Apps" in settings. /n
-Search for .zip file type and select "extractor" as the default app./n
-And it's done!/n
+Run the RARAutoExtractorSetup.exe file as Administrator, and it should install and set it as the default program for zip files.
+If it does not set itself as the default program, go to "Default Apps" in settings. 
+Search for .zip file type and select "extractor" as the default app.
+And it's done!
 
 
 # Uninstall
